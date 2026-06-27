@@ -58,6 +58,12 @@ If this tool helps you avoid a rug, consider a tip:
 
 `0x6A3404e7fdeE519AaaB364E1C27Db07aa99Ec922`
 
+## Support
+
+If you find this useful, consider supporting the project:
+
+- 🌿 **Grass** — Earn passive income by sharing unused bandwidth: [Register here](https://app.grass.io/register?referralCode=WeMGAjVJGpVUO5U)
+
 ## Requirements
 
 - Python 3.10+
